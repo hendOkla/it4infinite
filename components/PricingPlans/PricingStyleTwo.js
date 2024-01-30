@@ -12,6 +12,7 @@ const PricingStyleTwo = () => {
                         <h2>{t('ChoosePlan')}</h2>
                         <div className="bar"></div>
                         <p>{t('ChoosePlanSent')}</p>
+                        <h5 style={{color:"#44ce6f"}}>"{t('TheFree')}" </h5>
                     </div>
 
                     <div className="row justify-content-center">
